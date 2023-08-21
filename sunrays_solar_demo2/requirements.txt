@@ -1,0 +1,12 @@
+sqlalchemy
+fastapi
+uvicorn
+load_dotenv
+pydantic
+argon2-cffi
+asyncpg
+python-dotenv
+python-multipart
+PySide2
+starlette
+argon2
